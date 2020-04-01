@@ -6,6 +6,7 @@
       <class name="com.google.pages.GoogleSearchTC1"/>
       <class name="com.google.pages.GoogleSearchTC2"/>
       <class name="com.google.pages.GoogleSearchTC3"/>
+      <class name="com.google.pages.GoogleSearchTC4"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
