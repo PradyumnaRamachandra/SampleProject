@@ -17,7 +17,7 @@ public class GoogleSearchTC4 {
         WebDriver driver = new ChromeDriver(); 
 		driver.get("http://google.co.in/");
 		driver.manage().window().maximize();
-		driver.findElement(By.name("q")).sendKeys("git");
+		driver.findElement(By.name("q")).sendKeys("mercurytours");
 		driver.findElement(By.name("q")).sendKeys(Keys.RETURN);
 		Thread.sleep(3000);
 		driver.close();
