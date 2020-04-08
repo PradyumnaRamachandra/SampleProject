@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 
-public class GoogleSearchTC4 {
+public class GoogleSearchTC5 {
 	
 	@Test
 	public void TC01() throws InterruptedException {
